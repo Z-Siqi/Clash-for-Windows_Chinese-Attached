@@ -1,4 +1,4 @@
-# 导航至你想进入的Github存储库
+# 导航至你想要前往的Github存储库
 
 ### 前往[Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
