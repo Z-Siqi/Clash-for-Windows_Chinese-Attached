@@ -11,3 +11,5 @@
 **前往[Clash订阅转换器](https://acl4ssr-sub.github.io)**
 
 **前往[Github](https://github.com)**
+
+**前往[Google](https://google.com)**
