@@ -4,6 +4,10 @@
 
 ### 前往[Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 
+## 其它存储库
+
+### 前往[Clash-for-Windows_Rule](https://github.com/ender-zhao/Clash-for-Windows_Rule)
+
 ***
 
 ### 其它可能对你有用的网站
