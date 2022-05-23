@@ -7,7 +7,7 @@
 ## 其它存储库
 
 ### 前往[Clash-for-Windows_Rule](https://github.com/ender-zhao/Clash-for-Windows_Rule)
-### 前往[YouTube区域价格表](https://github.com/ender-zhao/YT-Premium-Area-price)
+### 前往[YouTube Premium区域价格表](https://github.com/ender-zhao/YT-Premium-Area-price)
 
 ***
 
