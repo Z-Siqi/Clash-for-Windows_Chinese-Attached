@@ -9,8 +9,6 @@
 ### 前往[Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule)
 ### 前往[YouTube Premium区域价格表](https://github.com/Z-Siqi/YT-Premium-Area-price)
 
-#### 有兴趣的话可以看看我写的一个Android软件：[WritingBoard](https://github.com/Z-Siqi/WritingBoard)
-
 ***
 
 ### 其它可能对你有用的网站
