@@ -1,6 +1,6 @@
 # 导航至你想要前往的Github存储库
 
-### 前往[Clash For Windows](https://web.archive.org/web/*/https://github.com/Fndroid/clash_for_windows_pkg)
+### ~前往[Clash For Windows](https://web.archive.org/web/*/https://github.com/Fndroid/clash_for_windows_pkg)~
 
 ### 前往[Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 
